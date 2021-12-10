@@ -1,0 +1,3 @@
+﻿  Experim.cpp
+F:\Dimon\институт\VisST\first\111\Experim\Experim\Experim.cpp(52,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Experim.vcxproj -> F:\Dimon\институт\VisST\first\111\Experim\Debug\Experim.exe
